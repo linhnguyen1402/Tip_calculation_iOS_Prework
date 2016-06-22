@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 > HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it: 
  
-> `![Video Walkthrough](walkthrough.gif)` 
+![walkthrough.gif](walkthrough.gif) 
  
 > You can also upload your image to imgur.com and embed the link here.
 
