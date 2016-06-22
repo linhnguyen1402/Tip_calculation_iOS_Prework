@@ -1,8 +1,5 @@
 # Pre-work - TipCalculation
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove all the HINT blocks in this file.
 
 TipCalculation is a tip calculator application for iOS.
 
@@ -11,8 +8,6 @@ Submitted by: VuNguyen
 Time spent: 40 hours spent in total
 
 ## User Stories
-
-> HINT: mark the items you completed with [x]
 
 The following **required** functionality is complete:
 
@@ -31,11 +26,9 @@ The following **additional** features are implemented:
 - changing tip percentage amount of three segments in UISegmentedControl
 ## Video Walkthrough 
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it: 
  
 ![walkthrough.gif](walkthrough.gif) 
  
-> You can also upload your image to imgur.com and embed the link here.
 
 Here's a walkthrough of implemented user stories:
 
